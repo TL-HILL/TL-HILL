@@ -12,7 +12,7 @@
 - ⌨️ Scripting/Coding: Python, C++/C#, Ruby, Shell, Bash
 
 ### I'm Interested In...
-- 🦾 AI (Computer Vision, Predictive Analytics)
+- 🦾 AI (Computer Vision, Predictive Analytics, Deep Learning)
 - ⛓ Blockchain
 
 ### Projects coming soon...
